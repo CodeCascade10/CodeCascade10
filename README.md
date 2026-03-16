@@ -1,20 +1,4 @@
 ## Hi there 👋
-
-<!--
-**CodeCascade10/CodeCascade10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
 </p>
@@ -32,7 +16,7 @@ Here are some ideas to get you started:
 - 💻 Full Stack Developer  
 - 🤖 Passionate about **AI, Backend Systems, and Scalable Applications**  
 - 🧠 Love solving **DSA and system design problems**  
-- 🌱 Exploring **AI + IoT + Web Technologies**
+- 🌱 Exploring **AI + Machine Learning + Web Technologies**
 
 ---
 
@@ -44,8 +28,8 @@ AI-powered interview simulator built with **React, Node.js, JWT, and Gemini AI**
 ### 🌾 FarmGuard
 AI-based crop disease detection using **VGGNet architecture** to help farmers detect plant diseases.
 
-### 🪖 Code_RAG Smart Helmet
-Smart accident detection helmet that **sends location alerts to family and contacts nearby police stations** during emergencies.
+### 🤖 Code_RAG
+A **Retrieval-Augmented Generation (RAG) based coding assistant** that helps developers understand codebases, retrieve relevant snippets, and generate intelligent coding solutions.
 
 ### 📋 Project Camp Backend
 Project management **REST API** with authentication, role-based access control, projects, tasks, subtasks, and notes.
@@ -69,9 +53,11 @@ Project management **REST API** with authentication, role-based access control, 
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Achievements
 
-![snake gif](https://github.com/CodeCascade10/CodeCascade10/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CodeCascade10&theme=matrix&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
