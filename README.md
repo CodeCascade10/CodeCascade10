@@ -1,12 +1,8 @@
-<p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpNDcyd3FvbG9iZm5oaGhlM3I2NmtlZjM0ejh3cjY5NWh1MmI5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2NxCschQ81ltiL9HV/giphy.gif" width="100%">
-</p>
+<h1 align="center">Hello World 👋</h1>
 
-<h1 align="center">⚡ Hi 👋, I'm Kausik Naskar ⚡</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Backend+Engineer;Building+Smart+Systems" />
-</p>
+<div align="center">
+  <img height="220" src="https://i.giphy.com/media/h2NxCschQ81ltiL9HV/giphy.gif"/>
+</div>
 
 ---
 
@@ -21,45 +17,84 @@
 
 ## 🔥 Featured Projects
 
+### 🤖 Code_RAG
+Retrieval-Augmented Generation based **coding assistant** that helps developers explore codebases, retrieve relevant code snippets, and generate intelligent solutions.
+
 ### 🧠 AI Interview Platform
-AI-powered interview simulator built with **React, Node.js, JWT, and Gemini AI**.
+AI-powered mock interview platform built using **React, Node.js, JWT, and Gemini AI**.
 
 ### 🌾 FarmGuard
-AI-based crop disease detection using **VGGNet architecture** to help farmers detect plant diseases.
-
-### 🤖 Code_RAG
-A **Retrieval-Augmented Generation (RAG) based coding assistant** that helps developers understand codebases, retrieve relevant snippets, and generate intelligent coding solutions.
+AI system using **VGGNet architecture** for plant disease detection.
 
 ### 📋 Project Camp Backend
-Project management **REST API** with authentication, role-based access control, projects, tasks, subtasks, and notes.
+Project management **REST API** with authentication, RBAC, tasks, subtasks, and notes.
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p align="center">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,react,nodejs,express,mongodb,git,github,linux,vscode"/>
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CodeCascade10&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCascade10&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodeCascade10&show_icons=true&theme=dracula&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCascade10&layout=compact&langs_count=6&theme=dracula" height="160"/>
+
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CodeCascade10&theme=matrix&no-frame=true&margin-w=10"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=CodeCascade10&theme=dracula" height="160"/>
+
+</div>
 
 ---
 
-<p align="center">
-⭐ Always exploring new technologies and building impactful solutions.
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app?username=CodeCascade10&theme=dracula&row=1&column=6"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCascade10&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=CodeCascade10.CodeCascade10"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/CodeCascade10/CodeCascade10/output/snake.svg" alt="Snake animation"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
