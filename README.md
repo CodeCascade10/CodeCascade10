@@ -91,10 +91,8 @@ Project management **REST API** with authentication, RBAC, tasks, subtasks, and 
 
 ---
 
-## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/CodeCascade10/CodeCascade10/output/snake.svg" alt="Snake animation"/>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/CodeCascade10/CodeCascade10/output/github-contribution-grid-snake-dark.svg"/>
+</p>
