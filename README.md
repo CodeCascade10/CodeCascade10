@@ -1,4 +1,3 @@
-# 💫 About Me:
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&width=500&lines=👨‍💻+About+Me" />
