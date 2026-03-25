@@ -1,93 +1,73 @@
-<h1 align="center">Hello World 👋</h1>
-
-<div align="center">
-  <img height="220" src="https://i.giphy.com/media/h2NxCschQ81ltiL9HV/giphy.gif"/>
-</div>
+<h1 align="center">Hey 👋, I'm Kausik Naskar</h1>
+<h3 align="center">🚀 Backend Developer 🤖 (AI/ML ) 🇮🇳 India</h3>
 
 ---
 
-## 🚀 About Me
+## 💭 About Me
 
-- 💻 Full Stack Developer  
-- 🤖 Passionate about **AI, Backend Systems, and Scalable Applications**  
-- 🧠 Love solving **DSA and system design problems**  
-- 🌱 Exploring **AI + Machine Learning + Web Technologies**
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 Code_RAG
-Retrieval-Augmented Generation based **coding assistant** that helps developers explore codebases, retrieve relevant code snippets, and generate intelligent solutions.
-
-### 🧠 AI Interview Platform
-AI-powered mock interview platform built using **React, Node.js, JWT, and Gemini AI**.
-
-### 🌾 FarmGuard
-AI system using **VGGNet architecture** for plant disease detection.
-
-### 📋 Project Camp Backend
-Project management **REST API** with authentication, RBAC, tasks, subtasks, and notes.
+- 🔭 I’m passionate about building **scalable backend systems & AI-powered apps**
+- 🎓 Computer Science student with strong interest in **Machine Learning & Data Science**
+- 🧠 Currently exploring **Deep Learning & System Design**
+- ⚡ Fun fact: *"It works... but I don't know why 😄"*
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,react,nodejs,express,mongodb,git,github,linux,vscode"/>
-</div>
+### 💻 Languages
+`C++` `Python` `JavaScript` `SQL`
+
+### 🌐 Web & Backend
+`Node.js` `Express.js` `Django` `Flask` `React`
+
+### 🧠 AI / ML
+`TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy`
+
+### 🗄️ Databases & Tools
+`MongoDB` `MySQL` `PostgreSQL` `Postman` `Git` `Linux`
+
+### 🎨 Others
+`Figma` `Nginx`
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codecascade10&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeCascade10&show_icons=true&theme=dracula&count_private=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCascade10&layout=compact&langs_count=6&theme=dracula" height="160"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=CodeCascade10&theme=dracula" height="160"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecascade10&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app?username=CodeCascade10&theme=dracula&row=1&column=6"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCascade10&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
+<p align="center">
+  <a href="mailto:naskarkausik07@gmail.com">📧 Gmail</a> •
+  <a href="https://kaggle.com/kausiknaskar10">📊 Kaggle</a> •
+  <a href="https://www.leetcode.com/sachinkausik10">🧩 LeetCode</a>
+</p>
 
 ---
 
-## 👀 Profile Visitors
+## 🚀 Current Focus
 
-<div align="center">
+- 🤖 Building AI-powered applications  
+- ⚙️ Backend projects with real-world use cases  
+- 📈 Improving DSA & problem-solving  
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=CodeCascade10.CodeCascade10"/>
+---
 
-</div>
+## ✨ Motto
+
+> *"Code. Break. Fix. Learn. Repeat."* 🔁
+
+---
+
+⭐ Feel free to explore my repositories and drop a star if you like something!
 
 ---
 
