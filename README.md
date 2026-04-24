@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝
 ```
 
-### `CS Undergrad` · `Data & AI Builder` · `Hackathon Champion`
+### `CS Undergrad` · `Data & AI WebSite Builder` · 
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCascade10)
