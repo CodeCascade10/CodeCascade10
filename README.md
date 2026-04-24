@@ -12,7 +12,6 @@
 ### `CS Undergrad` · `Data & AI WebSite Builder` · 
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCascade10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kausiknaskar10@gmail.com)
 
@@ -26,7 +25,6 @@
 kausik = {
     "location"   : "Kolkata, West Bengal 🇮🇳",
     "education"  : "B.Tech CSE @ Narula Institute of Technology (2023–2027)",
-    "cgpa"       : 8.97,
     "focus"      : ["Data Analysis", "AI/ML", "Product Systems"],
     "currently"  : "Building things that matter with data & intelligence",
     "fun_fact"   : "877+ DSA problems solved and still counting 🧠"
@@ -44,7 +42,6 @@ I'm a Computer Science undergrad who lives at the intersection of **data, AI, an
 | Category | Tools |
 |----------|-------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data & Analysis** | Data Cleaning · Pattern Recognition · Insight Generation · Visualization |
 | **Tools** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
 | **Tech** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector_Database-8A2BE2?style=flat-square&logo=pinecone&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 
