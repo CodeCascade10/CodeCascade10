@@ -25,8 +25,7 @@
 kausik = {
     "location"   : "Kolkata, West Bengal 🇮🇳",
     "education"  : "B.Tech CSE @ Narula Institute of Technology (2023–2027)",
-    "cgpa"       : 8.97,
-    "focus"      : ["Data Analysis", "AI/ML", "Product Systems"],
+    "focus"      : ["Data Analysis", "AI/ML"],
     "currently"  : "Building things that matter with data & intelligence",
     "fun_fact"   : "877+ DSA problems solved and still counting 🧠"
 }
