@@ -132,7 +132,7 @@ Vision Transformer model for lung cancer detection with **99.3% accuracy**. Inte
 
 *"Data is just stories waiting to be told."*
 
-**📍 Kolkata, West Bengal · 📞 +91 93315 19440 · ✉️ kausiknaskar10@gmail.com**
+**📍 Kolkata, West Bengal ✉️ kausiknaskar10@gmail.com**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=CodeCascade10&color=58A6FF&style=flat-square&label=Profile+Views)
 
